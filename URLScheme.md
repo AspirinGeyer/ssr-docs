@@ -87,7 +87,8 @@ obfsparam=YnJlYWt3YTExLm1vZQ&remarks=5rWL6K-V5Lit5p
   "method": "aes-128-cfb",
   "password": "aaabbb",  // => Base64:YWFhYmJi
   "protocol": "auth_aes128_md5",
-  "obfs": "breakwa11.moe",
+  "obfs": "tls1.2_ticket_auth",
+  "obfs_param": "breakwa11.moe",
   "remark": "测试中文"
 }
 ```
